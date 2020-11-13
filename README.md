@@ -1,2 +1,2 @@
 # YFINSynth
-YFIN Collateral Vault Proxy Contract Source Code
+YFIN Synth Contract Source Code
